@@ -26,3 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
 ![Oscar Kamau's stats](https://github-readme-stats.vercel.app/api?username=KamauDev-maker&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KamauDev-maker&theme=gruvbox&border_radius=4.5)
+
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KamauDev-maker&langs_count=8&theme=gruvbox)
