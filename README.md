@@ -2,6 +2,7 @@
 Recent Software Engineering graduate with fundamental knowledge of software design, development, and testing with a finance background of 5+ years of experience. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry-level software engineer.
  <p align="left">
   <a href="https://in.linkedin.com/in/oscarkamau" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="oscarkamau"/></a> 
+ <a href="https://twitter.com/Oscarkamah" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
       <a href="https://github.com/KamauDev-maker?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KamauDev-maker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
